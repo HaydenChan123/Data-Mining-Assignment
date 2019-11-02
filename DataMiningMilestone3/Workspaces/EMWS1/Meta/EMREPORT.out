@@ -1,0 +1,14 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Exported Attributes for TRAIN Port
+(maximum 500 observations printed)
+
+Variable                Measurement
+  Name      Role           Level       Creator    Label
+
+Change      INPUT        INTERVAL                 Change                          
+Names       REJECTED     NOMINAL                  Names                           
+Outcome     TARGET       BINARY                   Outcome                         
+Prices      INPUT        INTERVAL                 Prices                          
+__Change    INPUT        INTERVAL                 % Change                        

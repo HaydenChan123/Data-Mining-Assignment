@@ -1,0 +1,11 @@
+if NAME="Names" then do;
+ROLE="REJECTED";
+LEVEL="NOMINAL";
+ORDER="";
+end;
+if NAME="Outcome" then do;
+ROLE="TARGET";
+LEVEL="BINARY";
+ORDER="";
+end;
+drop DROP;

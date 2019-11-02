@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  Location="CATALOG" Catalog="SASHELP.EMSAMP.Fimport.SOURCE" ImportType="Local" GuessRows="500"
+ Delimiter="," NameRow="Y" SkipRows="0" MaxRows="1000000" MaxCols="10000" FileType="xlsx"
+ Role="TRAIN" ForceRun="N" Summarize="N" AdvancedAdvisor="N" RunAction="Train" Component="FileImport"
+ IFileName="C:\Users\Forge 15 i7\Desktop\UM 2nd Semester\WQD 7005 -Data Mining\Project\Data Acquisition\Data Acquisition\structuredDataSet\1.0SASused.xlsx"
+ AccessTable="NoTableName" UserID="NoUserID" Password="NoPassword" RawCreateTime="1888353381.4"
+ CreateTime="02NOV2019:22:36:21" RunId="cac5ae9b-a767-4e04-8a1a-e108c12fe5cd" RawLastTimeRun="1888356169.3"
+ RawRunTime="3.0520000458" LastTimeRun="02NOV2019:23:22:49" RunTime="0 Hr. 0 Min. 3.05 Sec."
+>
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES ><![CDATA[
+USERTRAINCODE
+USERSCORECODE
+USERREPORTCODE
+VARIABLESETDELTA
+DELTACODE
+]]>
+</FILEPROPERTIES></_ROOT_>

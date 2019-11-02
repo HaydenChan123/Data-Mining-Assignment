@@ -1,0 +1,43 @@
+*------------------------------------------------------------*
+User:                Forge 15 i7
+Date:                November 02, 2019
+Time:                23:09:15
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+            Measurement    Frequency
+Role           Level         Count
+ 
+INPUT        INTERVAL          3
+REJECTED     NOMINAL           1
+TARGET       BINARY            1
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+Exported Attributes for TRAIN Port
+(maximum 500 observations printed)
+ 
+Variable                Measurement
+  Name      Role           Level       Creator    Label
+ 
+Change      INPUT        INTERVAL                 Change
+Names       REJECTED     NOMINAL                  Names
+Outcome     TARGET       BINARY                   Outcome
+Prices      INPUT        INTERVAL                 Prices
+__Change    INPUT        INTERVAL                 % Change
